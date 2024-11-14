@@ -1,0 +1,22 @@
+# requirements.txt
+
+# Core Libararies
+numpy
+pandas
+scipy
+pyyaml
+
+# Plotting Libraries
+matplotlib
+seaborn
+
+# Machine Learning Libraries
+scikit-Learning
+hmmlearn
+
+# Jupyter Notebook
+jupyter
+jupyterlab
+
+# Change-point-detection
+ruptrues
