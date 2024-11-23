@@ -1,0 +1,4 @@
+volatility_thresholds:
+  low: 20
+  normal: 25
+  high: 30
