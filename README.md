@@ -4,6 +4,7 @@ A quantitative approach to identifying market regimes using statistical methods.
 
 ## Features
 
+- Volatility regime thresholding
 - Hidden Markov Model implementation for regime detection
 - Volatility clustering analysis
 - Trend detection algorithms
@@ -14,8 +15,8 @@ A quantitative approach to identifying market regimes using statistical methods.
 
 1. Clone this Repository
 2. Install Dependencies
-   a. ```pip install -r requirements.txt```
-   b. ```pip install .```
+   a) ```pip install -r requirements.txt```
+   b) ```pip install .```
 3. Open `configs/config.yaml`, alter as needed
 4. Run `scripts/run_all.sh`, or any other file
 
